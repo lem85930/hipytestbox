@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "hipy_js_360影视[官]",
-			"name": "up_0601-5[360影视]",
+			"name": "up_0603[360影视]",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -730,6 +730,40 @@
 			"order_num": 62,
 			"ext": "./drpy_js/掌心世界.js"
 		},
+		{
+			"key": "hipy_js_七色番",
+			"name": "七色番(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 62,
+			"ext": "./drpy_js/七色番.js"
+		},
+		{
+			"key": "hipy_js_次元城动漫",
+			"name": "次元城动漫(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 62,
+			"ext": "./drpy_js/次元城动漫.js"
+		},
+		{
+			"key": "hipy_js_Pornhub-z",
+			"name": "Pornhub-z(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 62,
+			"ext": "./drpy_js/Pornhub-z.js"
+		},
+		
 		{
 			"key": "hipy_js_斗鱼直播",
 			"name": "斗鱼直播(drpy_t3)",
