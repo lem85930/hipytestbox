@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "hipy_js_360影视[官]",
-			"name": "up_0603[360影视]",
+			"name": "up_0604[360影视]",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -763,7 +763,17 @@
 			"order_num": 62,
 			"ext": "./drpy_js/Pornhub-z.js"
 		},
-		
+		{
+			"key": "hipy_js_第一韩漫-z",
+			"name": "Pornhub-z(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 62,
+			"ext": "./drpy_js/第一韩漫-z.js"
+		},
 		{
 			"key": "hipy_js_斗鱼直播",
 			"name": "斗鱼直播(drpy_t3)",
