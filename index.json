@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "hipy_js_360影视[官]",
-			"name": "更新同步0605-1♥360影视[官]",
+			"name": "更新同步0605-2♥360影视[官]",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -376,6 +376,17 @@
 			"filterable": 1,
 			"order_num": 108,
 			"ext": "./drpy_js/笔趣阁[书].js"
+		},
+		{
+			"key": "hipy_js_番茄小说[书]",
+			"name": "番茄小说[书](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 108,
+			"ext": "./drpy_js/番茄小说[书].js"
 		},
 		{
 			"key": "Bdys_spider",
