@@ -400,6 +400,17 @@
 			"ext": "./drpy_js/番茄小说[书].js"
 		},
 		{
+			"key": "hipy_js_7猫小说[书]",
+			"name": "7猫小说[书](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 108,
+			"ext": "./drpy_js/7猫小说[书].js"
+		},
+		{
 			"key": "Bdys_spider",
 			"name": "哔滴┃磁力",
 			"api": "csp_Bdys01",
