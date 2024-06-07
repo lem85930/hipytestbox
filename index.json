@@ -1303,6 +1303,17 @@
 			"ext": "./drpy_js/热播之家.js"
 		},
 		{
+			"key": "hipy_js_绿色仓库",
+			"name": "绿色仓库(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 85,
+			"ext": "./drpy_js/绿色仓库.js"
+		},
+		{
 			"key": "hipy_js_人人影视",
 			"name": "人人影视(drpy_t3)",
 			"type": 3,
