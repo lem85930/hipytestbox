@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "hipy_js_360影视[官]",
-			"name": "更新同步0606♥360影视[官]",
+			"name": "更新同步0607♥360影视[官]",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -873,6 +873,17 @@
 			"filterable": 1,
 			"order_num": 28,
 			"ext": "./drpy_js/剧圈圈.js"
+		},
+		{
+			"key": "hipy_js_驴番",
+			"name": "驴番(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 28,
+			"ext": "./drpy_js/驴番.js"
 		},
 		{
 			"key": "hipy_js_看57",
