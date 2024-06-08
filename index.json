@@ -2106,6 +2106,17 @@
 			"order_num": 9999
 		},
 		{
+			"key": "hipy_js_爱爱影院",
+			"name": "爱爱影院(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 15,
+			"ext": "./drpy_js/爱爱影院.js"
+		},
+		{
 			"key": "hipy_js_黑料不打烊-z",
 			"name": "黑料不打烊-z(drpy_t3)",
 			"type": 3,
