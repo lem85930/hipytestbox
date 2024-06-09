@@ -411,6 +411,116 @@
 			"ext": "./drpy_js/7猫小说[书].js"
 		},
 		{
+			"key": "hipy_js_58动漫",
+			"name": "58动漫(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 108,
+			"ext": "./drpy_js58动漫.js"
+		},
+		{
+			"key": "hipy_js_i275听书[听]",
+			"name": "i275听书[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 108,
+			"ext": "./drpy_js/i275听书[听].js"
+		},
+		{
+			"key": "hipy_js_乐草TV",
+			"name": "乐草TV(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 108,
+			"ext": "./drpy_js/乐草TV.js"
+		},
+		{
+			"key": "hipy_js_六月听书[听]",
+			"name": "六月听书[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 108,
+			"ext": "./drpy_js/六月听书[听].js"
+		},
+		{
+			"key": "hipy_js_博看听书[听]",
+			"name": "博看听书[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 108,
+			"ext": "./drpy_js/博看听书[听].js"
+		},
+		{
+			"key": "hipy_js_播客[听]",
+			"name": "播客[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 108,
+			"ext": "./drpy_js/播客[听].js"
+		},
+		{
+			"key": "hipy_js_有声小说吧[听]",
+			"name": "有声小说吧[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 108,
+			"ext": "./drpy_js/有声小说吧[听].js"
+		},
+		{
+			"key": "hipy_js_有声绘本网[听]",
+			"name": "有声绘本网[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 108,
+			"ext": "./drpy_js/有声绘本网[听].js"
+		},
+		{
+			"key": "hipy_js_海洋听书[听]",
+			"name": "海洋听书[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 108,
+			"ext": "./drpy_js/海洋听书[听].js"
+		},
+		{
+			"key": "hipy_js_爱上你听书网[听]",
+			"name": "爱上你听书网[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 108,
+			"ext": "./drpy_js/爱上你听书网[听].js"
+		},
+		{
 			"key": "Bdys_spider",
 			"name": "哔滴┃磁力",
 			"api": "csp_Bdys01",
