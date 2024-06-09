@@ -543,6 +543,17 @@
 			"ext": "./drpy_js/哔哩直播.js"
 		},
 		{
+			"key": "hipy_js_NT动漫",
+			"name": "NT动漫(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 32,
+			"ext": "./drpy_js/NT动漫.js"
+		},
+		{
 			"key": "hipy_js_博看听书",
 			"name": "博看听书(drpy_t3)",
 			"type": 3,
