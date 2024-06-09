@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "hipy_js_360影视[官]",
-			"name": "更新同步0609♥360影视[官]",
+			"name": "更新同步0610♥360影视[官]",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -389,6 +389,17 @@
 			"ext": "./drpy_js/笔趣阁[书].js"
 		},
 		{
+			"key": "hipy_js_顶点小说[书]",
+			"name": "顶点小说[书](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 108,
+			"ext": "./drpy_js/顶点小说[书].js"
+		},
+		{
 			"key": "hipy_js_番茄小说[书]",
 			"name": "番茄小说[书](drpy_t3)",
 			"type": 3,
@@ -552,6 +563,28 @@
 			"filterable": 1,
 			"order_num": 32,
 			"ext": "./drpy_js/NT动漫.js"
+		},
+		{
+			"key": "hipy_js_MuteFun动漫",
+			"name": "MuteFun动漫(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 32,
+			"ext": "./drpy_js/MuteFun动漫.js"
+		},
+		{
+			"key": "hipy_js_大米动漫",
+			"name": "大米动漫(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 32,
+			"ext": "./drpy_js/大米动漫.js"
 		},
 		{
 			"key": "hipy_js_博看听书",
