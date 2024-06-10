@@ -400,6 +400,28 @@
 			"ext": "./drpy_js/顶点小说[书].js"
 		},
 		{
+			"key": "hipy_js_顶点小说2[书]",
+			"name": "顶点小说2[书](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 108,
+			"ext": "./drpy_js/顶点小说2[书].js"
+		},
+		{
+			"key": "hipy_js_飞翔鸟[书]",
+			"name": "飞翔鸟[书](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 108,
+			"ext": "./drpy_js/飞翔鸟[书].js"
+		},
+		{
 			"key": "hipy_js_番茄小说[书]",
 			"name": "番茄小说[书](drpy_t3)",
 			"type": 3,
@@ -422,6 +444,39 @@
 			"ext": "./drpy_js/7猫小说[书].js"
 		},
 		{
+			"key": "hipy_js_丫丫电子书[书]",
+			"name": "丫丫电子书[书](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 108,
+			"ext": "./drpy_js/丫丫电子书[书].js"
+		},
+		{
+			"key": "hipy_js_动漫网",
+			"name": "动漫网(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 108,
+			"ext": "./drpy_js/动漫网.js"
+		},
+		{
+			"key": "hipy_js_古风漫画",
+			"name": "古风漫画(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 108,
+			"ext": "./drpy_js/古风漫画.js"
+		},
+		{
 			"key": "hipy_js_58动漫",
 			"name": "58动漫(drpy_t3)",
 			"type": 3,
@@ -430,7 +485,18 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 108,
-			"ext": "./drpy_js58动漫.js"
+			"ext": "./drpy_js/58动漫.js"
+		},
+		{
+			"key": "hipy_js_包子漫画",
+			"name": "包子漫画(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 108,
+			"ext": "./drpy_js/包子漫画.js"
 		},
 		{
 			"key": "hipy_js_i275听书[听]",
@@ -871,6 +937,28 @@
 			"filterable": 1,
 			"order_num": 92,
 			"ext": "./drpy_js/狗狗盘[搜].js"
+		},
+		{
+			"key": "hipy_js_橘子柚[盘]",
+			"name": "橘子柚[盘](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 92,
+			"ext": "./drpy_js/橘子柚[盘].js"
+		},
+		{
+			"key": "hipy_js_飞刀资源[采]",
+			"name": "飞刀资源[采](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 55,
+			"ext": "./drpy_js/飞刀资源[采].js"
 		},
 		{
 			"key": "hipy_js_广播迷FM",
