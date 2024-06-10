@@ -653,17 +653,6 @@
 			"ext": "./drpy_js/大米动漫.js"
 		},
 		{
-			"key": "hipy_js_博看听书",
-			"name": "博看听书(drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 32,
-			"ext": "./drpy_js/博看听书.js"
-		},
-		{
 			"key": "hipy_js_茶语资源[资]",
 			"name": "茶语资源[资](drpy_t3)",
 			"type": 3,
