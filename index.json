@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "hipy_js_360影视[官]",
-			"name": "更新同步于0610♥360影视[官](drpy_t3)",
+			"name": "更新同步于0611♥360影视[官](drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -552,6 +552,28 @@
 			"filterable": 1,
 			"order_num": 56,
 			"ext": "./drpy_js/大米动漫.js"
+		},
+		{
+			"key": "hipy_js_樱花动漫",
+			"name": "樱花动漫(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 176,
+			"ext": "./drpy_js/樱花动漫.js"
+		},
+		{
+			"key": "hipy_js_有声听书网",
+			"name": "有声听书网(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 177,
+			"ext": "./drpy_js/有声听书网.js"
 		},
 		{
 			"key": "hipy_js_大米星球",
