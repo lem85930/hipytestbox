@@ -643,6 +643,50 @@
 			"ext": "./drpy_js/蛋蛋赞.js"
 		},
 		{
+			"key": "hipy_js_天启",
+			"name": "天启(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 178,
+			"ext": "./drpy_js/天启.js"
+		},
+		{
+			"key": "hipy_js_子子影视",
+			"name": "子子影视(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 179,
+			"ext": "./drpy_js/子子影视.js"
+		},
+		{
+			"key": "hipy_js_热片网",
+			"name": "热片网(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 180,
+			"ext": "./drpy_js/热片网.js"
+		},
+		{
+			"key": "hipy_js_我看书斋[书]",
+			"name": "我看书斋[书](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 181,
+			"ext": "./drpy_js/我看书斋[书].js"
+		},
+		{
 			"key": "hipy_js_第一韩漫-z",
 			"name": "第一韩漫-z(drpy_t3)",
 			"type": 3,
