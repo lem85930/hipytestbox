@@ -2448,7 +2448,7 @@
 		},
 		{
 			"key": "hipy_js_一点视频[密]",
-			"name": "一点视频[密](drpy_t3)",
+			"name": "一点视频(drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -2459,7 +2459,7 @@
 		},
 		{
 			"key": "hipy_js_九妖仓库[密]",
-			"name": "九妖仓库[密](drpy_t3)",
+			"name": "九妖仓库(drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -2467,6 +2467,28 @@
 			"filterable": 1,
 			"order_num": 183,
 			"ext": "./drpy_js/九妖仓库[密].js"
+		},
+		{
+			"key": "hipy_js_千百视频[密]",
+			"name": "千百视频(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 186,
+			"ext": "./drpy_js/千百视频[密].js"
+		},
+		{
+			"key": "hipy_js_老司视频[密]",
+			"name": "老司视频(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 185,
+			"ext": "./drpy_js/老司视频[密].js"
 		},
 		{
 			"key": "hipy_js_漫小肆",
