@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "hipy_js_360影视[官]",
-			"name": "更新同步于0611♥360影视[官](drpy_t3)",
+			"name": "更新同步于0612♥360影视[官](drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -2445,6 +2445,39 @@
 			"filterable": 1,
 			"order_num": 20,
 			"ext": "./drpy_js/Pornhub-z.js"
+		},
+		{
+			"key": "hipy_js_一点视频[密]",
+			"name": "一点视频[密](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 182,
+			"ext": "./drpy_js/一点视频[密].js"
+		},
+		{
+			"key": "hipy_js_九妖仓库[密]",
+			"name": "九妖仓库[密](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 183,
+			"ext": "./drpy_js/九妖仓库[密].js"
+		},
+		{
+			"key": "hipy_js_漫小肆",
+			"name": "漫小肆(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 184,
+			"ext": "./drpy_js/漫小肆.js"
 		},
 		{
 			"key": "SambaShare",
