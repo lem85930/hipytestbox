@@ -2482,13 +2482,13 @@
 				{
 					"name": "华数2",
 					"urls": [
-						"proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/华数2.m3u"
+						"proxy://do=live&type=txt&ext=https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/hipytestbox/main/lives/华数2.m3u"
 					]
 				},
 				{
 					"name": "杭州华数",
 					"urls": [
-						"proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/杭州华数.m3u"
+						"proxy://do=live&type=txt&ext=https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/hipytestbox/main/lives/杭州华数.m3u"
 					]
 				},
 				{
