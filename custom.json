@@ -112,7 +112,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./json/tokenm.json$$$./json/pikpakclass.json$$$./json/pikpakclass.json.txt.gz",
+      "ext": "./json/tokenm.json$$$./json/pikpakclass.json$$$./json/pikpakclass.json.db.gz",
       "style": {
         "type": "list",
         "ratio": 1.1
