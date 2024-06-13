@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "hipy_js_360影视[官]",
-			"name": "更新同步于0612♥360影视[官](drpy_t3)",
+			"name": "更新同步于0613♥360影视[官](drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -80,6 +80,17 @@
 			"filterable": 1,
 			"order_num": 50,
 			"ext": "./drpy_js/哔哩影视[官].js"
+		},
+		{
+			"key": "hipy_js_剧圈圈[自动]",
+			"name": "剧圈圈[自动](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 187,
+			"ext": "./drpy_js/剧圈圈[自动].js"
 		},
 		{
 			"key": "hipy_js_4k剧院",
