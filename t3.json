@@ -81,7 +81,6 @@
 			"order_num": 61,
 			"ext": "./drpy_js/哔哩影视[官].js"
 		},
-		
         {
             "key": "hipy_t3_cntv央视[py]",
             "name": "cntv央视[py](hipy_t3)",
@@ -91,36 +90,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./drpy_py/cntv央视.json"
-        },
-        {
-            "key": "hipy_t3_哔滴影视[py]",
-            "name": "哔滴影视[py](hipy_t3)",
-            "type": 3,
-            "api": "./drpy_py/哔滴影视.py",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./drpy_py/jars/bidi.jar"
-        },
-        {
-            "key": "hipy_t3_两个BT[py]",
-            "name": "两个BT[py](hipy_t3)",
-            "type": 3,
-            "api": "./drpy_py/两个BT.py",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./drpy_py/两个BT.json"
-        },
-        {
-            "key": "hipy_t3_喵次元[py]",
-            "name": "喵次元[py](hipy_t3)",
-            "type": 3,
-            "api": "./drpy_py/喵次元.py",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": ""
         },
         {
             "key": "hipy_t3_厂长资源[py]",
@@ -152,7 +121,6 @@
             "filterable": 1,
             "ext": ""
         },
-       
 		{
 			"key": "hipy_js_4k剧院",
 			"name": "4k剧院(drpy_t3)",
