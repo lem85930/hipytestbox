@@ -530,7 +530,7 @@
 		},
 		{
 			"key": "hipy_js_采集之王[合]",
-			"name": "采集之王[合](drpy_t3)",
+			"name": "采集之王[合]E(drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -538,6 +538,17 @@
 			"filterable": 1,
 			"order_num": 193,
 			"ext": "./drpy_js/采集之王[合].js?type=url&params=../json/采集.json"
+		},
+		{
+			"key": "hipy_js_采集之王[合]",
+			"name": "采集之王[合]Y(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 193,
+			"ext": "./drpy_js/采集之王[合].js?type=url&params=./json/采集.json"
 		},
 		{
 			"key": "hipy_js_草莓秒播[密]",
