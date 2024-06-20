@@ -24,7 +24,7 @@ var rule = {
     // params: 'http://127.0.0.1:5707/files/json/%E9%87%87%E9%9B%86.json',
     预处理: $js.toString(() => {
         let _url = rule.params;
-        if (_url && typeof (_url) === 'string' && _url.startsWith('http')) {
+        if (_url && typeof (_url) === 'string') {
             let html = request(_url);
             let json = JSON.parse(html);
             let _classes = [];
