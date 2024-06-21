@@ -13,7 +13,7 @@ function naturalSort(arr,key) {
   return arr.sort((a, b) => a[key].localeCompare(b[key], undefined, { numeric: true, sensitivity: 'base' }));
 }
 async function main() {
-  let js_order = ['360影视[官]', '菜狗[官]', '奇珍异兽[官]', '优酷[官]', '腾云驾雾[官]', '百忙无果[官]', '哔哩影视[官]'];
+  let js_order = ['360影视[官]', '菜狗[官]', '奇珍异兽[官]', '优酷[官]', '腾云驾雾[官]', '百忙无果[官]', '哔哩影视[官]', '采集之王[合]','采集之王[合|密]'];
   let js_path = './drpy_js';
   let live_path = './lives';
   let config_path = './custom.json';
@@ -152,25 +152,39 @@ async function main() {
   };
   js_files.forEach((it, index) => {
     let rname = it.replace('.js', '');
-    let extra = '';
+    let extras = [''];
     if (rname.includes('我的哔哩传参')) {
-      extra = '?type=url&params=../json/小学教育.json';
+      extras = ['?type=url&params=../json/小学教育.json'];
+    }else if (rname.includes('采集之王')) {
+      extras = [
+	  '?type=url&params=../json/采集静态.json',
+	  '?type=url&params=../json/采集[密]静态.json',
+	  ];
     }
+	
 	//let excludes = ['玩偶哥哥','阿里土豆'];
 	let excludes = [];
 	if(!excludes.includes(rname)){
-    let data = {
-      'key': `hipy_js_${rname}`,
-      'name': `${rname}(drpy_t3)`,
-      'type': 3,
-      'api': js_api,
-      'searchable': 1,
-      'quickSearch': 1,
-      'filterable': 1,
-      'order_num': index,
-      'ext': `${js_path}/${it}${extra}`,
-    };
-    json_config.sites.push(data);
+		extras.forEach((extra,index)=>{
+			let ext_str = 'drpy_t3';
+			if(extra){
+				try{
+					ext_str = extra.split('/').slice(-1)[0].split('.')[0];
+				}catch(e){}
+			}
+			let data = {
+			  'key': extras.length>1?`hipy_js_${rname}${index}`:`hipy_js_${rname}`,
+			  'name': extras.length>1?`${rname}(${ext_str})`:`${rname}(drpy_t3)`,
+			  'type': 3,
+			  'api': js_api,
+			  'searchable': 1,
+			  'quickSearch': 1,
+			  'filterable': 1,
+			  'order_num': index,
+			  'ext': `${js_path}/${it}${extra}`,
+			};
+			json_config.sites.push(data);
+		});
 	}
   });
   json_config.sites = json_config.sites.concat(config_sites);
