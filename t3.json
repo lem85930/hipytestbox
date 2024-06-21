@@ -246,6 +246,17 @@
 			"ext": "./drpy_js/555影视[飞].js"
 		},
 		{
+			"key": "hipy_js_script直播[飞]",
+			"name": "script直播[飞](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 222,
+			"ext": "./drpy_js/script直播[飞].js"
+		},
+		{
 			"key": "hipy_js_777影视",
 			"name": "777影视(drpy_t3)",
 			"type": 3,
