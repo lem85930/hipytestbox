@@ -95,11 +95,11 @@
             "key": "hipy_t3_采集之王[合][py]",
             "name": "采集之王[合][py](hipy_t3)",
             "type": 3,
-            "api": "./json/采集分类生成器.py",
+            "api": "./drpy_py/采集分类生成器.py",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./drpy_js/采集之王[合].js?type=url&params=../json/采集静态.json"
+            "ext": "./drpy_py/采集之王[合].js?type=url&params=./drpy_py/采集静态.json"
         },
         {
             "key": "hipy_t3_厂长资源[py]",
