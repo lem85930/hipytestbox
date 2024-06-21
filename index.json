@@ -488,7 +488,7 @@
 			"ext": "./drpy_js/博看听书[听].js"
 		},
 		{
-			"key": "hipy_js_采集之王[合]E",
+			"key": "hipy_js_采集之王[合]",
 			"name": "采集之王[合]E(drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
@@ -499,7 +499,7 @@
 			"ext": "./drpy_js/采集之王[合].js?type=url&params=../json/采集静态.json"
 		},
 		{
-			"key": "hipy_js_采集之王[合]Y",
+			"key": "hipy_js_采集之王[合]",
 			"name": "采集之王[合]Y(drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
