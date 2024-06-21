@@ -1,7 +1,7 @@
 /**
  * 强烈推荐静态分类。可以加快速度!!!
- * 传参 ?type=url&params=../json/采集.json
- * 传参 ?type=url&params=../json/采集静态.json
+ * 传参 ?type=url&params=./采集.json
+ * 传参 ?type=url&params=./采集静态.json
  * [{"name":"暴风资源","url":"https://bfzyapi.com","parse_url":""},{"name":"飞刀资源","url":"http://www.feidaozy.com","parse_url":""},{"name":"黑木耳资源","url":"https://www.heimuer.tv","parse_url":""}]
  */
 var rule = {
