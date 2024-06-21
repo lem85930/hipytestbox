@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "hipy_js_360影视[官]",
-			"name": "360影视[官](drpy_t3)|更新同步于0621",
+			"name": "360影视[官](drpy_t3)|更新同步于0622",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -247,17 +247,6 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "./drpy_js/555影视[飞].js"
-		},
-		{
-			"key": "hipy_js_script直播[飞]",
-			"name": "script直播[飞](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/script直播[飞].js"
 		},
 		{
 			"key": "hipy_js_777影视",
@@ -937,6 +926,17 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "./drpy_js/非凡资源[资].js"
+		},
+		{
+			"key": "hipy_js_分享短视频",
+			"name": "分享短视频(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/分享短视频.js"
 		},
 		{
 			"key": "hipy_js_干饭影视",
@@ -2639,17 +2639,6 @@
 			"order_num": 9999
 		},
 		{
-			"key": "hipy_js_云星cms",
-			"name": "云星cms(drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/云星cms.js"
-		},
-		{
 			"key": "hipy_js_在线之家",
 			"name": "在线之家(drpy_t3)",
 			"type": 3,
@@ -2920,6 +2909,17 @@
 			"timeout": 60,
 			"ext": "./json/tokenm.json$$$./json/sambashare.txt",
 			"order_num": 9999
+		},
+		{
+			"key": "hipy_js_script直播[飞]",
+			"name": "script直播[飞](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/script直播[飞].js"
 		},
 		{
 			"key": "hipy_js_TVB云播",
