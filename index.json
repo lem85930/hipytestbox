@@ -500,7 +500,7 @@
 		},
 		{
 			"key": "hipy_js_采集之王[合]Y",
-			"name": "采集之王[合]Y(drpy_t3)|用于影视相关",
+			"name": "采集之王[合](drpy_t3)|用于影视相关",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
