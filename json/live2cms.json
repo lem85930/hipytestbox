@@ -4,6 +4,23 @@
     "url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
   },
   {
+    "name": "IPTV线路",
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/IPTV线路.txt"
+  },
+  {
+    "name": "live",
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/live.txt"
+  },
+  {
+    "name": "V4",
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/V4.txt"
+  },
+  {
+    "name": "开心频道",
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/开心频道.txt"
+  },
+
+  {
     "name": "CNTV",
     "url": "./live_cntv.txt"
   }
