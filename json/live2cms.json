@@ -7,6 +7,22 @@
     "name": "饭太硬",
     "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/饭太硬/lives/live.txt"
   },
+   {
+    "name": "IPTV线路",
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/lives/IPTV线路.txt"
+  },
+  {
+    "name": "live",
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/lives/live.txt"
+  },
+  {
+    "name": "V4",
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/lives/V4.txt"
+  },
+  {
+    "name": "开心频道",
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/lives/开心频道.txt"
+  },
   {
     "name": "CNTV",
     "url": "./live_cntv.txt"
