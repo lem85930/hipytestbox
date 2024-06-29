@@ -3362,15 +3362,26 @@
 			"ext": "./drpy_js/script直播[飞].js"
 		},
 		{
-			"key": "hipy_js_ss直播",
-			"name": "ss直播(drpy_t3)",
+			"key": "hipy_js_36直播[密]",
+			"name": "36直播(drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/ss直播.js"
+			"ext": "./drpy_js/36直播[密].js"
+		},
+		{
+			"key": "hipy_js_路漫漫[漫]",
+			"name": "路漫漫[漫](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/路漫漫[漫].js"
 		},
 		{
 			"key": "hipy_js_TVB云播",
