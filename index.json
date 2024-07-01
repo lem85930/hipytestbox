@@ -6,7 +6,7 @@
 	"sites": [
 		{
 			"key": "hipy_js_360影视[官]",
-			"name": "360影视[官](drpy_t3)|更新同步于0630",
+			"name": "360影视[官](drpy_t3)|更新同步于0701",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -336,6 +336,17 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "./drpy_js/啊哈DJ[听].js"
+		},
+		{
+			"key": "hipy_js_老白故事[听]",
+			"name": "老白故事[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/老白故事[听].js"
 		},
 		{
 			"key": "hipy_js_爱爱影院[密]",
